@@ -1,0 +1,11 @@
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle icon representing "P" -->
+  <circle cx="50" cy="75" r="30" fill="#4CAF50" />
+  <path d="M40 55 L40 95 Q40 75 55 75 Q70 75 70 85 Q70 95 55 95" stroke="white" stroke-width="5" fill="none" />
+
+  <!-- Text "PrepZone" -->
+  <text x="100" y="80" font-family="Arial" font-size="55" fill="white">PrepZone</text>
+
+  <!-- Tagline "ACE INTERVIEW WITH AI" -->
+  <text x="100" y="110" font-family="Arial" font-size="18" fill="white">ACE INTERVIEW WITH AI</text>
+</svg>
